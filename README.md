@@ -1,4 +1,4 @@
-# sporttrack-trainingdiary
+# SportTrack: Training diary
  If you are a sportsman SportTrack is the app that's for you! 
  Whether you are doing workout hours a day, or doing a corset a week.  SportTrack allows you to record all your workouts and keep all your preparation in check in the best way.
 
