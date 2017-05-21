@@ -37,8 +37,11 @@
   - Possibility to modify workouts records and weight
   - Choose from many beautiful colors to customize your experience
   - Choose an app 
-  
-
+ 
+ ### BUGS/PROBLEM/SUGGESTION
+ 
+Please report to team any request, signaling or otherwise at geekstudio.dev.@gmail.com. Or use the github tools for troubleshooting troubleshooting. 
+Thank you all
   
   ## DONATIONS
   
