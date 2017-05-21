@@ -64,7 +64,7 @@ This project needs you! If you would like to support this project's further deve
  
  ## PREVIEW
  
-  <img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170511(204330).png?alt=media&token=a9e28d44-7694-46a3-b238-a94cf19129de" height="500"/> <img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170429(095554).png?alt=media&token=2be93fec-4fbf-4449-a9b7-a37dd4882263" height="500"/> <img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170429(095528).png?alt=media&token=aa170b85-236d-49b7-9239-8beda3895f6f" height="500"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170511(204330).png?alt=media&token=a9e28d44-7694-46a3-b238-a94cf19129de" height="500"/><img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170429(095528).png?alt=media&token=aa170b85-236d-49b7-9239-8beda3895f6f" height="500"/><img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170429(095554).png?alt=media&token=2be93fec-4fbf-4449-a9b7-a37dd4882263" height="500"/>
   
   
    <img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170429(095502).png?alt=media&token=472cda69-c92f-4a7f-a919-c0ea921c2291" height="500"/><img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170429(095628).png?alt=media&token=3882ac59-f964-4b53-8580-52d595251404" height="500"/><img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170429(095647).png?alt=media&token=3b2466fd-fd96-432f-8d8b-628d705bb103" height="500"/>
@@ -72,13 +72,11 @@ This project needs you! If you would like to support this project's further deve
 
 
 
- <img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170316(220102).png?alt=media&token=74f895f4-a54f-4291-ab66-dc96d5464596" height="500"/><img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_1494754702878.png?alt=media&token=8f6e2d73-2a7e-42a8-99e3-19a78b1f39bf" height="500"/><img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_1494756147519.png?alt=media&token=5839c731-8da1-47cc-a7cb-1d2e9a12f3d6" height="500"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_1494756147519.png?alt=media&token=5839c731-8da1-47cc-a7cb-1d2e9a12f3d6" height="500"/><img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170316(220102).png?alt=media&token=74f895f4-a54f-4291-ab66-dc96d5464596" height="500"/><img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_1494754702878.png?alt=media&token=8f6e2d73-2a7e-42a8-99e3-19a78b1f39bf" height="500"/>
  
  
  
- 
-  <img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170316(215945).png?alt=media&token=7b53164d-224a-4dbc-9ed1-5042b57d2790" height="500"/>
-  <img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170316(220047).png?alt=media&token=3f1caaa1-a9b1-4ec8-a99a-54250aba6dce" height="500"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170316(215945).png?alt=media&token=7b53164d-224a-4dbc-9ed1-5042b57d2790" height="500"/><img src="https://firebasestorage.googleapis.com/v0/b/sporttrack-b2fe6.appspot.com/o/screenshot%2Fscreener_20170316(220047).png?alt=media&token=3f1caaa1-a9b1-4ec8-a99a-54250aba6dce" height="500"/>
  
  
 
