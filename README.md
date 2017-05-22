@@ -48,7 +48,7 @@ Thank you all
 This project needs you! If you would like to support this project's further development, the creator of this project or the continuous maintenance of this project, feel free to donate. Your donation is highly appreciated (and I love food, coffee and beer). Thank you!
 
 **PayPal**
-* <a href="paypal.me/geekstudio/1">Donate $1</a>: For a little coffee!!
+* <a href="https://www.paypal.me/geekstudio/1">Donate $1</a>: For a little coffee!!
 
 * <a href="paypal.me/geekstudio/5">Donate $5</a>: Thank's for creating this project, here's a coffee (or some beer) for you!
 
@@ -62,7 +62,7 @@ This project needs you! If you would like to support this project's further deve
 
 * <a href="paypal.me/geekstudio/100">Donate $100</a>: You are the man! This project saved me hours (if not days) of struggle and hard work, simply awesome!
 	
-* <a href="paypal.me/geekstudio/270">Donate $2750</a>: Go buddy, buy Macbook Pro for yourself!
+* <a href="paypal.me/geekstudio/2750">Donate $2750</a>: Go buddy, buy Macbook Pro for yourself!
  
  
  ## PREVIEW
