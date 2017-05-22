@@ -50,19 +50,19 @@ This project needs you! If you would like to support this project's further deve
 **PayPal**
 * <a href="https://www.paypal.me/geekstudio/1">Donate $1</a>: For a little coffee!!
 
-* <a href="paypal.me/geekstudio/5">Donate $5</a>: Thank's for creating this project, here's a coffee (or some beer) for you!
+* <a href="https://www.paypal.me/geekstudio/5">Donate $5</a>: Thank's for creating this project, here's a coffee (or some beer) for you!
 
-* <a href="paypal.me/geekstudio/10">Donate $10</a>: Wow, I am stunned. Let me take you to the movies!
+* <a href="https://www.paypal.me/geekstudio/10">Donate $10</a>: Wow, I am stunned. Let me take you to the movies!
 
-* <a href="paypal.me/geekstudio/15">Donate $15</a>: I really appreciate your work, let's grab some lunch!
+* <a href="https://www.paypal.me/geekstudio/15">Donate $15</a>: I really appreciate your work, let's grab some lunch!
 
-* <a href="paypal.me/geekstudio/25">Donate $25</a>: That's some awesome stuff you did right there, dinner is on me!
+* <a href="https://www.paypal.me/geekstudio/25">Donate $25</a>: That's some awesome stuff you did right there, dinner is on me!
 
-* <a href="paypal.me/geekstudio/50">Donate $50</a>: I really really want to support this project, great job!
+* <a href="https://www.paypal.me/geekstudio/50">Donate $50</a>: I really really want to support this project, great job!
 
-* <a href="paypal.me/geekstudio/100">Donate $100</a>: You are the man! This project saved me hours (if not days) of struggle and hard work, simply awesome!
+* <a href="https://www.paypal.me/geekstudio/100">Donate $100</a>: You are the man! This project saved me hours (if not days) of struggle and hard work, simply awesome!
 	
-* <a href="paypal.me/geekstudio/2750">Donate $2750</a>: Go buddy, buy Macbook Pro for yourself!
+* <a href="https://www.paypal.me/geekstudio/2750">Donate $2750</a>: Go buddy, buy Macbook Pro for yourself!
  
  
  ## PREVIEW
