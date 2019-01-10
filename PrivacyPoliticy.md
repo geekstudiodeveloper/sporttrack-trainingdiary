@@ -24,10 +24,13 @@ You agree to use the Training Diary application at your own risk. Any updates co
 ### 2.2 Security
 The credentials are saved in a secure area of the device, accessible only by Training Diary, unless the root permissions for third-party applications have been enabled. In this case Training Diary and its developer can no longer protect the credentials from any attempts to tamper with connected devices or third-party applications. The developer assumes no responsibility.
 
-### 2.2 Data usage
+### 2.3 Data usage
 The developer, only in case of express consent of the user and as a result of serious problems of stability of the app, can make an analysis of the contents entered by the user and modify them, in order to correct any critical issues.
 
+### 2.4 E-mail collection
+By registering you will give consent to the developer to be able to contact you ONLY in case of problems in the app, or as a result of negative feedback. In this way, assistance will be better. The email collected will be the one with which you register and will not be used for commercial or invasive purposes.
 
+### These privacy rules can be updated without direct notification to the user. In case of major changes, a notification will be sent.
 
 
 
@@ -64,5 +67,10 @@ L'utente accetta di utilizzare l'applicazione Training Diary a proprio rischio e
 ### 2.2 Sicurezza
 Le credenziali sono salvate in un’area sicura del dispositivo, accessibile esclusivamente da Training Diary, a meno che non siano stati abilitati i permessi di root per applicazioni di terze parti. In questo caso Training Diary e il suo sviluppatore non può più proteggere le credenziali da eventuali tentativi di manomissione da parte di dispositivi collegati o applicazioni di terze parti. Lo sviluppatore non si assume alcuna responsabilità.
 
-### 2.2 utilizzo dati
+### 2.3 utilizzo dati
 Lo sviluppatore, solo in caso di espresso consenso dell’utente e a seguito di problematiche gravi di stabilità dell’app, potrà fare un analisi dei contenuti inseriti dall’utente e di modificarli, in modo da correggere eventuali criticità.
+
+### 2.4 Raccolta e-mail
+Attraverso la registrazione darete il consenso allo sviluppatore di poter contattarvi SOLO in caso di problemi in app, o a seguito di feedback negativi. In questo modo l'assistenza sarà migliore. L'email raccolta sarà quella con cui si effettua la registrazione e non verrà utilizzata per scopi commerciali o invasivi.
+
+### Queste regole di privacy potranno essere aggiornate senza notifica diretta all'utente. In caso di cambiamenti importanti sarà mandata una notofica.
