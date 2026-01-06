@@ -230,227 +230,283 @@ Email: garante@gpdp.it
 
 
 
+______________________________________________________________
 
 
 
 
 
 
-Terms of Service
-Last Updated: January 6, 2026
+# Terms of Service
 
-These Terms of Service ("Terms") govern your use of the mobile application Workout Diary - Trainings plan - Fitness tracker (the "App"), developed and operated by Nicola Chiari ("we", "us", "our", or "Developer").
+**Last Updated: January 6, 2026**
+
+These Terms of Service ("Terms") govern your use of the mobile application **Workout Diary - Trainings plan - Fitness tracker** (the "App"), developed and operated by Nicola Chiari ("we", "us", "our", or "Developer").
 
 By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
 
-1. ACCEPTANCE OF TERMS
-By accessing or using the App, you confirm that:
+---
 
-You are at least 16 years old (or the minimum age required in your jurisdiction)
-You have the legal capacity to enter into these Terms
-You will comply with all applicable laws and regulations
-You have read and understood our Privacy Policy
-2. LICENSE TO USE THE APP
-2.1 Limited License
+## 1. ACCEPTANCE OF TERMS
+
+By accessing or using the App, you confirm that:
+- You are at least **16 years old** (or the minimum age required in your jurisdiction)
+- You have the legal capacity to enter into these Terms
+- You will comply with all applicable laws and regulations
+- You have read and understood our Privacy Policy
+
+---
+
+## 2. LICENSE TO USE THE APP
+
+### 2.1 Limited License
 We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes, subject to these Terms.
 
-2.2 Restrictions
+### 2.2 Restrictions
 You agree NOT to:
+- Modify, reverse engineer, decompile, or disassemble the App
+- Copy, distribute, or create derivative works from the App
+- Remove or alter any copyright, trademark, or proprietary notices
+- Use the App for any illegal, harmful, or unauthorized purpose
+- Attempt to gain unauthorized access to the App's servers or systems
+- Interfere with or disrupt the App's functionality or security
+- Use automated tools (bots, scrapers) to access the App
+- Impersonate another user or provide false information
+- Upload malicious code, viruses, or harmful content
 
-Modify, reverse engineer, decompile, or disassemble the App
-Copy, distribute, or create derivative works from the App
-Remove or alter any copyright, trademark, or proprietary notices
-Use the App for any illegal, harmful, or unauthorized purpose
-Attempt to gain unauthorized access to the App's servers or systems
-Interfere with or disrupt the App's functionality or security
-Use automated tools (bots, scrapers) to access the App
-Impersonate another user or provide false information
-Upload malicious code, viruses, or harmful content
-3. MEDICAL & PHYSICAL ACTIVITY DISCLAIMER
-⚠️ PLEASE READ THIS CAREFULLY BEFORE USING THE APP
-3.1 Not Medical Advice
+---
+
+## 3. MEDICAL & PHYSICAL ACTIVITY DISCLAIMER
+
+### ⚠️ PLEASE READ THIS CAREFULLY BEFORE USING THE APP
+
+**3.1 Not Medical Advice**  
 The App is a fitness tracking tool provided for informational and educational purposes only. It does NOT provide medical advice, diagnosis, treatment, or professional fitness coaching.
 
-3.2 Consult a Healthcare Professional
+**3.2 Consult a Healthcare Professional**  
 Before starting any new exercise program, diet, or fitness regimen, you MUST consult with a qualified physician or healthcare provider, especially if you:
+- Have any pre-existing medical conditions (heart disease, diabetes, high blood pressure, etc.)
+- Are pregnant or nursing
+- Are taking any medications
+- Have any injuries or physical limitations
+- Have not exercised regularly in the past
+- Are over 40 years old and have not been physically active
 
-Have any pre-existing medical conditions (heart disease, diabetes, high blood pressure, etc.)
-Are pregnant or nursing
-Are taking any medications
-Have any injuries or physical limitations
-Have not exercised regularly in the past
-Are over 40 years old and have not been physically active
-3.3 Assumption of Risk
+**3.3 Assumption of Risk**  
 Physical exercise involves inherent risks, including but not limited to:
+- Muscle strains, sprains, and injuries
+- Cardiovascular events (heart attack, stroke)
+- Exacerbation of existing medical conditions
+- Severe injury or death in extreme cases
 
-Muscle strains, sprains, and injuries
-Cardiovascular events (heart attack, stroke)
-Exacerbation of existing medical conditions
-Severe injury or death in extreme cases
-BY USING THIS APP, YOU ACKNOWLEDGE AND ACCEPT THESE RISKS.
+**BY USING THIS APP, YOU ACKNOWLEDGE AND ACCEPT THESE RISKS.**
 
-3.4 No Liability for Health Outcomes
+**3.4 No Liability for Health Outcomes**  
 We are NOT responsible for any:
+- Health problems, injuries, disabilities, or death resulting from your use of the App
+- Consequences of following workout plans, exercises, or information in the App
+- Medical emergencies or health complications arising from physical activity
+- Inaccuracies in calorie calculations, weight tracking, or performance metrics
 
-Health problems, injuries, disabilities, or death resulting from your use of the App
-Consequences of following workout plans, exercises, or information in the App
-Medical emergencies or health complications arising from physical activity
-Inaccuracies in calorie calculations, weight tracking, or performance metrics
-3.5 Listen to Your Body
+**3.5 Listen to Your Body**  
 Stop exercising immediately and seek medical attention if you experience:
+- Chest pain or discomfort
+- Severe shortness of breath
+- Dizziness, lightheadedness, or fainting
+- Unusual fatigue or weakness
+- Pain in joints, muscles, or bones
+- Any other concerning symptoms
 
-Chest pain or discomfort
-Severe shortness of breath
-Dizziness, lightheadedness, or fainting
-Unusual fatigue or weakness
-Pain in joints, muscles, or bones
-Any other concerning symptoms
-3.6 Accuracy of Information
+**3.6 Accuracy of Information**  
 While we strive for accuracy, the App does NOT guarantee:
+- The precision of calorie calculations or nutritional information
+- The accuracy of weight tracking or body measurements
+- The suitability of any workout plan for your individual needs
+- Real-time updates or error-free operation
 
-The precision of calorie calculations or nutritional information
-The accuracy of weight tracking or body measurements
-The suitability of any workout plan for your individual needs
-Real-time updates or error-free operation
-YOU ARE SOLELY RESPONSIBLE FOR YOUR HEALTH AND SAFETY.
+**YOU ARE SOLELY RESPONSIBLE FOR YOUR HEALTH AND SAFETY.**
 
-4. USER ACCOUNTS
-4.1 Account Creation
+---
+
+## 4. USER ACCOUNTS
+
+### 4.1 Account Creation
 To access certain features, you may need to create an account by providing a valid email address. You are responsible for:
+- Maintaining the confidentiality of your account credentials
+- All activities that occur under your account
+- Notifying us immediately of any unauthorized use
 
-Maintaining the confidentiality of your account credentials
-All activities that occur under your account
-Notifying us immediately of any unauthorized use
-4.2 Account Termination
+### 4.2 Account Termination
 We reserve the right to suspend or terminate your account at any time, without notice, if you violate these Terms or engage in prohibited activities.
 
-You may delete your account at any time using our account deletion form:
+You may delete your account at any time using our account deletion form:  
 https://docs.google.com/forms/d/e/1FAIpQLSeFb9P0SdKvh1lyYmu-Ndy5kU1Afre2386goZBT_nFApcJ3ig/viewform?usp=dialog
 
-5. USER CONTENT
-5.1 Ownership
+---
+
+## 5. USER CONTENT
+
+### 5.1 Ownership
 You retain ownership of any content you create or upload to the App (workout logs, notes, measurements). By using the App, you grant us a limited license to store, process, and display your content solely to provide the App's services.
 
-5.2 Prohibited Content
+### 5.2 Prohibited Content
 You agree NOT to upload or share content that:
+- Is illegal, harmful, threatening, or abusive
+- Infringes on intellectual property rights
+- Contains viruses, malware, or harmful code
+- Is spam, advertising, or commercial solicitation
+- Violates the privacy of others
 
-Is illegal, harmful, threatening, or abusive
-Infringes on intellectual property rights
-Contains viruses, malware, or harmful code
-Is spam, advertising, or commercial solicitation
-Violates the privacy of others
-5.3 Content Removal
+### 5.3 Content Removal
 We reserve the right to remove any content that violates these Terms, without notice.
 
-6. IN-APP PURCHASES
-6.1 Payments
+---
+
+## 6. IN-APP PURCHASES
+
+### 6.1 Payments
 The App may offer in-app purchases (premium features, subscriptions) through Google Play Billing. All payments are processed by Google, and we do not have access to your payment information.
 
-6.2 Refunds
-Refund policies are governed by Google Play's terms. To request a refund, contact Google Play Support or visit:
+### 6.2 Refunds
+Refund policies are governed by Google Play's terms. To request a refund, contact Google Play Support or visit:  
 https://support.google.com/googleplay/answer/2479637
 
-6.3 Subscription Auto-Renewal
+### 6.3 Subscription Auto-Renewal
 If you purchase a subscription, it will automatically renew unless you cancel it at least 24 hours before the end of the current billing period. You can manage subscriptions in your Google Play account settings.
 
-7. THIRD-PARTY SERVICES AND ADVERTISEMENTS
-7.1 Third-Party Links
+---
+
+## 7. THIRD-PARTY SERVICES AND ADVERTISEMENTS
+
+### 7.1 Third-Party Links
 The App may contain links to third-party websites or services. We are not responsible for the content, privacy practices, or terms of third-party sites. Access them at your own risk.
 
-7.2 Advertisements
+### 7.2 Advertisements
 The App displays ads through Google AdMob. We do not control the content of ads. If you click on an ad, you will be redirected to a third-party site.
 
-8. INTELLECTUAL PROPERTY
-8.1 App Ownership
+---
+
+## 8. INTELLECTUAL PROPERTY
+
+### 8.1 App Ownership
 The App, including all content, features, design, code, logos, and trademarks, is owned by Nicola Chiari and protected by copyright, trademark, and other intellectual property laws.
 
-8.2 No Unauthorized Use
+### 8.2 No Unauthorized Use
 You may not copy, reproduce, modify, distribute, or exploit any part of the App without our prior written consent.
 
-9. DISCLAIMERS AND LIMITATION OF LIABILITY
-9.1 "AS IS" and "AS AVAILABLE"
+---
+
+## 9. DISCLAIMERS AND LIMITATION OF LIABILITY
+
+### 9.1 "AS IS" and "AS AVAILABLE"
 THE APP IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+- Merchantability, fitness for a particular purpose, or non-infringement
+- Uninterrupted, error-free, or secure operation
+- Accuracy, reliability, or completeness of content
 
-Merchantability, fitness for a particular purpose, or non-infringement
-Uninterrupted, error-free, or secure operation
-Accuracy, reliability, or completeness of content
-9.2 Limitation of Liability
+### 9.2 Limitation of Liability
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, NICOLA CHIARI SHALL NOT BE LIABLE FOR ANY:
+- **Indirect, incidental, special, consequential, or punitive damages**
+- **Loss of profits, revenue, data, or business opportunities**
+- **Personal injury, death, or property damage**
+- **Damages resulting from:**
+  - Your use or inability to use the App
+  - Unauthorized access to your account or data
+  - Errors, bugs, or interruptions in the App
+  - Third-party services or advertisements
+  - Reliance on any information provided by the App
 
-Indirect, incidental, special, consequential, or punitive damages
-Loss of profits, revenue, data, or business opportunities
-Personal injury, death, or property damage
-Damages resulting from:
-Your use or inability to use the App
-Unauthorized access to your account or data
-Errors, bugs, or interruptions in the App
-Third-party services or advertisements
-Reliance on any information provided by the App
-IN NO EVENT SHALL OUR TOTAL LIABILITY EXCEED THE AMOUNT YOU PAID US IN THE PAST 12 MONTHS (OR €100, WHICHEVER IS GREATER).
+**IN NO EVENT SHALL OUR TOTAL LIABILITY EXCEED THE AMOUNT YOU PAID US IN THE PAST 12 MONTHS (OR €100, WHICHEVER IS GREATER).**
 
 Some jurisdictions do not allow the exclusion of certain warranties or limitation of liability, so the above limitations may not apply to you.
 
-10. INDEMNIFICATION
-You agree to indemnify, defend, and hold harmless Nicola Chiari from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:
+---
 
-Your use of the App
-Your violation of these Terms
-Your violation of any third-party rights
-Any content you upload or share
-11. CHANGES TO TERMS
+## 10. INDEMNIFICATION
+
+You agree to indemnify, defend, and hold harmless Nicola Chiari from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:
+- Your use of the App
+- Your violation of these Terms
+- Your violation of any third-party rights
+- Any content you upload or share
+
+---
+
+## 11. CHANGES TO TERMS
+
 We may update these Terms from time to time. Changes will be effective when we post the revised Terms in the App and update the "Last Updated" date.
 
-Significant changes will be communicated via:
+**Significant changes** will be communicated via:
+- In-app notification
+- Email (if you have an account)
 
-In-app notification
-Email (if you have an account)
 Your continued use of the App after changes constitutes acceptance of the new Terms.
 
-12. TERMINATION
-12.1 By You
+---
+
+## 12. TERMINATION
+
+### 12.1 By You
 You may stop using the App at any time and delete your account.
 
-12.2 By Us
+### 12.2 By Us
 We reserve the right to terminate or suspend your access to the App immediately, without notice, for:
+- Violation of these Terms
+- Fraudulent or illegal activity
+- Abuse or misuse of the App
+- Any reason at our sole discretion
 
-Violation of these Terms
-Fraudulent or illegal activity
-Abuse or misuse of the App
-Any reason at our sole discretion
-12.3 Effect of Termination
+### 12.3 Effect of Termination
 Upon termination:
+- Your right to use the App will cease immediately
+- We may delete your account and data (unless retention is required by law)
+- Sections of these Terms that should survive termination (disclaimers, indemnification, limitation of liability) will remain in effect
 
-Your right to use the App will cease immediately
-We may delete your account and data (unless retention is required by law)
-Sections of these Terms that should survive termination (disclaimers, indemnification, limitation of liability) will remain in effect
-13. GOVERNING LAW AND DISPUTE RESOLUTION
-13.1 Governing Law
-These Terms are governed by and construed in accordance with the laws of Italy, without regard to its conflict of law principles.
+---
 
-13.2 Jurisdiction
-Any disputes arising from these Terms or your use of the App shall be subject to the exclusive jurisdiction of the courts of Italy.
+## 13. GOVERNING LAW AND DISPUTE RESOLUTION
 
-13.3 Arbitration (Optional)
+### 13.1 Governing Law
+These Terms are governed by and construed in accordance with the laws of **Italy**, without regard to its conflict of law principles.
+
+### 13.2 Jurisdiction
+Any disputes arising from these Terms or your use of the App shall be subject to the exclusive jurisdiction of the courts of **Italy**.
+
+### 13.3 Arbitration (Optional)
 If required by applicable law, disputes may be resolved through binding arbitration rather than in court, in accordance with the rules of an agreed arbitration body.
 
-14. SEVERABILITY
+---
+
+## 14. SEVERABILITY
+
 If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will remain in full force and effect.
 
-15. ENTIRE AGREEMENT
+---
+
+## 15. ENTIRE AGREEMENT
+
 These Terms, together with our Privacy Policy, constitute the entire agreement between you and Nicola Chiari regarding the App and supersede all prior agreements or understandings.
 
-16. NO WAIVER
+---
+
+## 16. NO WAIVER
+
 Our failure to enforce any right or provision of these Terms does not constitute a waiver of that right or provision.
 
-17. CONTACT INFORMATION
+---
+
+## 17. CONTACT INFORMATION
+
 If you have any questions or concerns about these Terms, please contact:
 
-Nicola Chiari
-Email: chiarinik96@gmail.com
+**Nicola Chiari**  
+Email: chiarinik96@gmail.com  
 Support: geekstuio.dev@gmail.com
 
-18. ACKNOWLEDGMENT
-BY USING WORKOUT DIARY, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS OF SERVICE.
+---
 
-YOU ALSO ACKNOWLEDGE THAT PHYSICAL EXERCISE INVOLVES RISKS AND THAT YOU ASSUME FULL RESPONSIBILITY FOR YOUR HEALTH AND SAFETY.
+## 18. ACKNOWLEDGMENT
 
+**BY USING WORKOUT DIARY, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS OF SERVICE.**
+
+**YOU ALSO ACKNOWLEDGE THAT PHYSICAL EXERCISE INVOLVES RISKS AND THAT YOU ASSUME FULL RESPONSIBILITY FOR YOUR HEALTH AND SAFETY.**
